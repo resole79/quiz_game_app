@@ -40,7 +40,7 @@ python3 main.py
 		- "still_has_question"( check if are still question left ), 
 		- "check_answer"( check if the answer are correct ),
 		- "nex_question" ( show next question )
- - **ui.py** : Class "QuizUi"
+ - **quiz_ui.py** : Class "QuizUi"
  	- *Method*:
 		- "get_question"( get_question ), 
 		- "check_true"( get 'true_answer_button' click ),
